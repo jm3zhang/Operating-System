@@ -1,0 +1,4 @@
+Task1: call rt_tsk_count_get() to test if it output the number of active tasks.
+Task2: call os_tsk_get() and print the informations of each task.
+Task3: keep printing some string to make stack usage incresing.
+Task4, 5: a infinite loop to prevent the task to be terminated.
