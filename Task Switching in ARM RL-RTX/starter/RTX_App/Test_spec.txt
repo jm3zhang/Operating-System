@@ -1,0 +1,6 @@
+Task 1 : Add 8 tasks into the pool, but the there are only 3 blocks available, so 5 will go to wait list.
+         After finished, delete.
+Task 2 : Output the state and priority of each task
+Task 3 : Add one task to pool but still need to wait. When finish, delete.
+Task 4 : After long delay, clean two positions from pool
+Task 5 : Dely, then allocate, it has high priority; afterwards, delay, and deleted self.
